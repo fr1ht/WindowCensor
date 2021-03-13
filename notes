@@ -1,0 +1,14 @@
++ grab screen pixels  << secret::Window.snapshot  << mm.py
++ pixels to text << secret::Window.img2txt  << ipexample::main
+  - slow as f
+  - maybe i need to find it by "hand"
+  - anyways let it run
+- extract ip addresses from text
++ ip address to pixels
+  - missing size for this ip
+- matching (pixels)
+  + test :: piu.py
+  - rectangle is not filled
+- hide ip << kk << kk.py
+  - fill this rectangle
+  - bad coordinates to put text
