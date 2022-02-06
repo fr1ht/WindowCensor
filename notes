@@ -1,17 +1,3 @@
-[ in ]
-  - image
-
-
-[ code ]
-
-
-[ out ]
-  - image
-
-
-
-
-
 + grab screen pixels  << secret::Window.snapshot  << mm.py
 + pixels to text << secret::Window.img2txt  << ipexample::main
   - slow as f
